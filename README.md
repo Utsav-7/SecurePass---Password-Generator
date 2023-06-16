@@ -1,4 +1,4 @@
-![Screenshot from 2023-06-16 12-17-48](https://github.com/Utsav-7/random-password-generator/assets/98468952/2ccdd326-00a0-42c7-836d-7601b2195b6a)# Random-Password-Generator
+# Random-Password-Generator
 ## Description: 
 - Random password generator is a web-based application that generates strong and unique passwords for users to ensure the security of their online accounts. The application offers various customization options such as password length, inclusion of special characters, capitalization, and numbers. Users can easily generate a password by clicking on the "Generate Password" button, and copy it to their clipboard for later use. With an easy-to-use interface and high level of personalization, the random password generator offers users a convenient way to secure their online presence.
 

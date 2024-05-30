@@ -1,6 +1,6 @@
-# Random-Password-Generator
+# SecurePass - Password Generator
 ## Description: 
-- Random password generator is a web-based application that generates strong and unique passwords for users to ensure the security of their online accounts. The application offers various customization options such as password length, inclusion of special characters, capitalization, and numbers. Users can easily generate a password by clicking on the "Generate Password" button, and copy it to their clipboard for later use. With an easy-to-use interface and high level of personalization, the random password generator offers users a convenient way to secure their online presence.
+- SecurePass is a web-based application that generates strong and unique passwords for users to ensure the security of their online accounts. The application offers various customization options such as password length, inclusion of special characters, capitalization, and numbers. Users can easily generate a password by clicking on the "Generate Password" button, and copy it to their clipboard for later use. With an easy-to-use interface and high level of personalization, the random password generator offers users a convenient way to secure their online presence.
 
 ## Workflow:
 - Step-1: user register
